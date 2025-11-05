@@ -1,4 +1,4 @@
-# QA-Automation
+# QA-Automation-Ex.1
 
 Just a simple README for a simple repo.
 
